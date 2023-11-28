@@ -1,3 +1,3 @@
-# Playgrounds
+# Xcode Playground Exercises
 
-## Exercises in Xcode Playgrounds using Swift
+## Welcome to the Xcode Playgrounds Exercises using Swift
