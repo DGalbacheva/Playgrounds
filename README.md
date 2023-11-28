@@ -1,3 +1,3 @@
 # Playgrounds
 
-##Exercises in Xcode Playgrounds using Swift
+## Exercises in Xcode Playgrounds using Swift
